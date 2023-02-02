@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2023/2/1 10:14
 # @Author  : AI悦创
-# @FileName: lesson01.py
+# @FileName: Code01.py
 # @Software: PyCharm
 # @Blog    ：https://bornforthis.cn/
 import pygame  # 导入 pygame 库
